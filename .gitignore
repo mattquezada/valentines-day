@@ -1,0 +1,11 @@
+# Ignore images folder
+images/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Node (if ever used)
+node_modules/
